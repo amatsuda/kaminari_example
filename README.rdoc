@@ -1,0 +1,12 @@
+== About this project
+
+This is a sample Rails 4 application showing the basic and advanced usage of Kaminari paginator
+
+
+== Examples
+
+1. basic
+  see master branch https://github.com/amatsuda/kaminari_example
+
+2. Ajax pagination with jQuery
+  see ajax branch https://github.com/amatsuda/kaminari_example/tree/ajax
